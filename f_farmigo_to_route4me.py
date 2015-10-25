@@ -13,7 +13,7 @@ def print_slowly(text):
 
 # Let the user know it's working, slowly.
 print ''
-print_slowly ('farmigotools\n\nft_farmigo_to_route4me.py')
+print_slowly ('farmigotools\n\n' + sys.argv[0])
 print ''
 print ''
 sleep(0.3)
