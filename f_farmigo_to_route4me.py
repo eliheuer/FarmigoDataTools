@@ -1,4 +1,4 @@
-# hello!
+#
 import csv              #!  Comma-Separated Values - tabular data in plain text.
 import os               #!  Miscellaneous operating system interfaces.
 import sys              #!  System-specific parameters and functions.
