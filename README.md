@@ -1,9 +1,8 @@
-# farmigotools
+# Farmigo Data Tools
 Python scripts for working with distribution CSVs from Farmigo.
 
-# about
+# About
 Python scripts for working with distribution CSVs from Farmigo.
 
-# how to use
+# How to use
 Python scripts for working with distribution CSVs from Farmigo.
-
