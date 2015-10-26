@@ -1,8 +1,8 @@
 # Farmigo Data Tools
-Python scripts for working with distribution CSVs from Farmigo.
+Automate working with CSVs exported from Farmigo with these unix-style command line tools written in Python. 
 
 # About
-Python scripts for working with distribution CSVs from Farmigo.
+This project was started by Eli Heuer while working at Nextdoorganics. Big-ups to Nextdoorganics for supporting open-source!
 
 # How to use
 Python scripts for working with distribution CSVs from Farmigo.
