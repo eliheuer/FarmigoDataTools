@@ -1,4 +1,6 @@
-import csv              #!  Comma-Separated Values - tabular data in plain text.
+# This is free software, please share!
+# Copyright (c) 2015 Eli Heuer under the MIT License (MIT)
+import csv              #!  Comma-Separated Values, tabular data in plain text.
 import os               #!  Miscellaneous operating system interfaces.
 import sys              #!  System-specific parameters and functions.
 from time import sleep  #!  Sleep - for command-line animation.
